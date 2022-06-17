@@ -1,0 +1,73 @@
+{
+    "limites":[
+    {
+      "sector":"Norte",
+      "calle":"Calle de los Narcisos (vía sin restricción), intersección con la av. Córdova Galarza (redondel sector Escuela Superior de Policía), que luego pasa a unirse con la av. Simón Bolívar (redondel puente Villorita)."
+    },
+    {
+      "sector":"Sur",
+      "calle":"Restricción hasta el puente de Catahuango, las calles S63 y S60 son vías sin restricción en el área industrial Guamaní (sector Eternit), sigue por la av. Pedro Vicente Maldonado hasta la calle Lucía Albán de Romero, continúa sobre la Albán de Romero hasta conectar con la av. Mariscal Sucre (vías con restricción)."
+    },
+    {
+      "sector":"Este",
+      "calle":"Toda la av. Simón Bolívar (vía sin restricción)."
+    },
+    {
+      "sector":"Oeste",
+      "calle":"Tiene restricción toda la av. Mariscal Sucre hasta unirse con la av. Córdova Galarza (vía sin restricción), hasta la calle de los Narcisos."
+    }
+  ],
+  "parqueaderos":[
+    {
+        "lugar":"El Condado",
+        "calle": "Ubicado en la calle Camilo Guachamín y La Esperanza. Tiene 150 espacios."
+        
+    },
+    {
+        "lugar":"Cuscungo",
+        "calle": "Situado en la autopista General Rumiñahui. Dispone de 150 lugares."
+        
+    },
+    {
+        "lugar":"Zámbiza",
+        "calle": "En la avenida de las Palmeras y El Inca. Cuenta con 160 estacionamientos."
+        
+    }
+  ],
+  "horario":[
+    {
+        "dia": "Lunes",
+        "placa": "Placas terminadas en 1 y en 2"
+    },
+    {
+        "dia": "Martes",
+        "placa": "Placas terminadas en 3 y en 4"
+    },
+    {
+        "dia": "Miercoles",
+        "placa": "Placas terminadas en 5 y en 6"
+    },
+    {
+        "dia": "Jueves",
+        "placa": "Placas terminadas en 7 y en 8"
+    },
+    {
+        "dia": "Viernes",
+        "placa": "Placas terminadas en 9 y en 0"
+    },
+    {
+        "dia": "Sábado y Domingo",
+        "placa": "Libre circulación las 24 horas"
+    }
+  ],
+  "informacion":[
+    {
+      "titulo":"El Universo",
+      "cita": "Los horarios y placas del Pico y Placa en Quito para este 1 de junio de 2022 | Ecuador | Noticias | El Universo. (n.d.). Retrieved June 16, 2022, from https://www.eluniverso.com/noticias/ecuador/los-horarios-y-placas-del-pico-y-placa-en-quito-para-este-1-de-junio-de-2022-carro-vehiculo-restriccion-movilidad-trafico-nota/"
+    },
+    {
+      "titulo":"Quito Informa",
+      "cita":"pico y placa – Quito Informa. (n.d.). Retrieved June 16, 2022, from http://www.quitoinforma.gob.ec/tag/pico-y-placa/"
+    }
+  ]
+}
